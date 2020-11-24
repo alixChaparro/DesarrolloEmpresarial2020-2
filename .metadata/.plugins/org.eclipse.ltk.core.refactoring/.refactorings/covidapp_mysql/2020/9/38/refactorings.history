@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.covidapp_mysql.model.Documenttype&apos; to &apos;TypeDocument&apos;&#x0D;&#x0A;- Original project: &apos;covidapp_mysql&apos;&#x0D;&#x0A;- Original element: &apos;com.covidapp_mysql.model.Documenttype&apos;&#x0D;&#x0A;- Renamed element: &apos;com.covidapp_mysql.model.TypeDocument&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Documenttype&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.covidapp_mysql.model{Documenttype.java[Documenttype" matchStrategy="1" name="TypeDocument" qualified="false" references="true" similarDeclarations="false" stamp="1600211580338" textual="false" version="1.0"/>
+</session>

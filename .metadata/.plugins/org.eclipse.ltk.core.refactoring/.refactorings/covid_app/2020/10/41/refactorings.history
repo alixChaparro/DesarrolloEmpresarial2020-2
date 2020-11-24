@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.usta.covid_app.interfaces.IObjectQuery&apos; to &apos;IObjectQueryMysql&apos;&#x0D;&#x0A;- Original project: &apos;covid_app&apos;&#x0D;&#x0A;- Original element: &apos;com.usta.covid_app.interfaces.IObjectQuery&apos;&#x0D;&#x0A;- Renamed element: &apos;com.usta.covid_app.interfaces.IObjectQueryMysql&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;IObjectQuery&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.usta.covid_app.interfaces{IObjectQuery.java[IObjectQuery" matchStrategy="1" name="IObjectQueryMysql" qualified="false" references="true" similarDeclarations="false" stamp="1601939989177" textual="false" version="1.0"/>
+</session>

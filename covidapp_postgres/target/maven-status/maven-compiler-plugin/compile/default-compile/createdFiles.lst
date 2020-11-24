@@ -1,0 +1,11 @@
+com\covidapp_postgres\model\City.class
+com\covidapp_postgres\model\Disease.class
+com\covidapp_postgres\model\Register.class
+com\covidapp_postgres\model\Decree.class
+com\covidapp_postgres\model\Company.class
+com\covidapp_postgres\model\Person.class
+com\covidapp_postgres\model\HistoricoDecree.class
+com\covidapp_postgres\model\CompanyLogin.class
+com\covidapp_postgres\model\Departament.class
+com\covidapp_postgres\model\LoginPostgres.class
+com\covidapp_postgres\model\TypeDocument.class

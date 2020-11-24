@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;covidApp_ejb&apos; to &apos;covid_app&apos;" description="Rename resource &apos;covidApp_ejb&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/covidApp_ejb" name="covid_app" stamp="1599144410084" updateReferences="true"/>
+</session>
